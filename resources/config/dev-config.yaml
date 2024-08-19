@@ -1,0 +1,2 @@
+port: 8082
+mongoUrl: mongodb://localhost:27017
